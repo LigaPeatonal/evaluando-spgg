@@ -31,27 +31,27 @@ Total: 5,557
 
 ### Obstáculos en banquetas
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93482352-e7f28100-f8ff-11ea-8cb7-64232df4640c.png" height="350">
+<img src="https://user-images.githubusercontent.com/50057640/93482352-e7f28100-f8ff-11ea-8cb7-64232df4640c.png" height="450">
 <br>
 
 ### Problemas en superficie
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93482598-29832c00-f900-11ea-9997-7f333c3c45b9.png" height="350">
+<img src="https://user-images.githubusercontent.com/50057640/93482598-29832c00-f900-11ea-9997-7f333c3c45b9.png" height="450">
 <br>
   
 ### Rampas peatonales ausentes
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93482774-5afbf780-f900-11ea-89ad-de57c68f64c4.png" height="350">
+<img src="https://user-images.githubusercontent.com/50057640/93482774-5afbf780-f900-11ea-89ad-de57c68f64c4.png" height="450">
 <br>
   
 ### Rampas peatonales actuales
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93482963-94ccfe00-f900-11ea-83a3-c79878737fcb.png" height="350">
+<img src="https://user-images.githubusercontent.com/50057640/93482963-94ccfe00-f900-11ea-83a3-c79878737fcb.png" height="450">
 <br>
   
 ### Banquetas ausentes
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93483095-bd54f800-f900-11ea-9589-71a2c25c3be8.png" height="350">
+<img src="https://user-images.githubusercontent.com/50057640/93483095-bd54f800-f900-11ea-9589-71a2c25c3be8.png" height="450">
 <br>
 
-
+[Mapa de calor](https://caminitoescuela.carto.com/builder/b387edbe-58cc-4b4d-85b2-682234ebc220/embed)
