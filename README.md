@@ -31,7 +31,7 @@ Total: 5,557
 
 ### [Obstáculos fijos](https://github.com/LigaPeatonal/evaluando-spgg/wiki/Obst%C3%A1culos-fijos)+ [Obstáculos móviles](https://github.com/LigaPeatonal/evaluando-spgg/wiki/Obst%C3%A1culos-m%C3%B3viles)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50057640/93482352-e7f28100-f8ff-11ea-8cb7-64232df4640c.png" height="25%">
+<img src="https://user-images.githubusercontent.com/50057640/93482352-e7f28100-f8ff-11ea-8cb7-64232df4640c.png" width="90%">
 <br>
 
 ### [Problemas en superficie](https://github.com/LigaPeatonal/evaluando-spgg/wiki/Problemas-en-superficie)
